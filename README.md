@@ -14,7 +14,7 @@ This SQL database project simulates real-world hospital reporting needs for anal
 | `Billing` | Stores financial transactions and payment status |
 
 ## Entity Relationship Diagram
-![Database Schema Diagram](assets/erd.png)  
+![TO DO: Database Schema Diagram](assets/erd.png)  
 
 ## Analysis Files
 ### `patient_analytics.sql`
